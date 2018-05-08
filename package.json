@@ -4,10 +4,16 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "colors": "^1.2.4",
     "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
     "gulp-clean-css": "^3.9.4",
     "gulp-imagemin": "^4.1.0",
     "gulp-less": "^3.5.0",
-    "gulp-uglify": "^3.0.0"
+    "gulp-ruby-sass": "^3.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch-path": "^0.1.0",
+    "stream-combiner2": "^1.1.1"
   }
 }
